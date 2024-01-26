@@ -2,7 +2,8 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning coding
 - 📫 How to reach me? not found
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:idk
+  
 
 <!---
 whosk/whosk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
